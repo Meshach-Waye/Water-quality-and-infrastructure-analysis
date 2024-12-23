@@ -12,7 +12,7 @@ Tracking employee data to assess improvement efforts
 Generating recommendations for improvement (e.g., installing filters, diagnosing infrastructure issues, etc.)
 Database Structure
 
-## The project uses the following tables:
+## The dataset contains several key tables, including:
 
 - **visits**: Contains information on visits to each water source, including queue times and assigned employees.
 - **well_pollution**: Tracks pollution results for well water sources.
@@ -31,4 +31,7 @@ Database Structure
 1. Import the SQL files provided in the /sql directory.
 2. Populate the database with sample data, following the instructions in data_loading.sql.
 3. Execute the query files to generate views, track progress, and analyze data.
+4. The dataset is available in XLSX format. Due to compatibility limitations, it cannot be opened directly here. However, you can download the file and easily import it into Microsoft Excel or Google Sheets for viewing and analysis
+5. Visual examples of the reports and dashboards can be found in the Power BI folder for your review.
+6. The dataset was continuously updated throughout the project to ensure that reports reflected the most current information.
 
