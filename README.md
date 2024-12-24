@@ -1,7 +1,7 @@
 # Water-quality-and-infrastructure-analysis
 
 Water Quality and Infrastructure Analysis
-This project focuses on analyzing water quality data, infrastructure improvements, and employee performance for water sources in various locations. The project uses SQL to join and filter data across multiple tables, identify problematic sources, and track project progress and Utilizing Power BI to Identify trends and patterns, Track key performance indicators (KPIs) and generate reports also Create a public-facing dashboard for stakeholders to access critical information and make informed decisions.
+This project focuses on analyzing water quality data, infrastructure improvements, and employee performance for water sources in various locations. The project uses SQL to join and filter data across multiple tables, identify problematic sources, and track project progress and Utilizing Power BI to Identify trends and patterns, Track key performance indicators (KPIs) and generate reports also create a public-facing dashboard for stakeholders to access critical information and make informed decisions.
 
 ## Project Overview
 The analysis is centered on:
