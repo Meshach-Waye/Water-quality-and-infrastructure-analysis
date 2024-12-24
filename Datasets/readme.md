@@ -1,1 +1,1 @@
-
+The dataset is available in XLSX format. Due to compatibility limitations, it cannot be opened directly here. However, you can download the file and easily import it into Microsoft Excel or Google Sheets for viewing and analysis, other datasets can be found in the project 1 folder
