@@ -32,6 +32,7 @@ Database Structure
 2. Populate the database with sample data, following the instructions in data_loading.sql.
 3. Execute the query files to generate views, track progress, and analyze data.
 4. The dataset is available in XLSX format. Due to compatibility limitations, it cannot be opened directly here. However, you can download the file and easily import it into Microsoft Excel or Google Sheets for viewing and analysis
-5. Visual examples of the reports and dashboards can be found in the Power BI folder for your review.
+5. INTERACT WITH THE DASHBOARD WITH THIS LINK
+https://app.powerbi.com/reportEmbed?reportId=3f843cf1-bedf-41d3-893f-5118b53fdeb1&autoAuth=true&ctid=6ff88235-1e0c-4055-90da-f29eea2edb2d
 6. The dataset was continuously updated throughout the project to ensure that reports reflected the most current information.
 
